@@ -1,12 +1,13 @@
-# MainStreet Clips Public Pages
+# MainStreet Clips
 
-This folder is safe to publish to the public GitHub Pages repository at `noktirnal42/mainstreet-clips`.
+MainStreet Clips helps local businesses turn selected photos and videos into short, reviewed marketing clips for social channels.
 
-It should contain only:
+## Links
 
-- Marketing pages.
-- Support information.
-- Privacy policy.
-- Public screenshots and media after approval.
+- Website: https://noktirnal42.github.io/mainstreet-clips/
+- Support: https://noktirnal42.github.io/mainstreet-clips/support.html
+- Privacy Policy: https://noktirnal42.github.io/mainstreet-clips/privacy.html
 
-Do not publish app source, internal planning, build logs, credentials, private App Store metadata, or roadmap documents here.
+## Support
+
+For help, use the support page to review common setup and export steps or submit an issue for organized troubleshooting.
