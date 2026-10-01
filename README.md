@@ -10,4 +10,4 @@ MainStreet Clips helps local businesses turn selected photos and videos into sho
 
 ## Support
 
-For help, use the support page to review common setup and export steps or submit an issue for organized troubleshooting.
+For help, use the support page to review common setup and export steps or email support for troubleshooting.
